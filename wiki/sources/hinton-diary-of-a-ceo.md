@@ -14,7 +14,7 @@ scope: "Full episode; ingested primarily for the AI & jobs counterpoint"
 
 # Geoffrey Hinton × The Diary Of A CEO — the pessimist's case
 
-> Ingested as the **counterpoint** to [[jensen-huang-cna-interview]] on [[ai-and-jobs]]. The episode is wide-ranging (mostly AI **safety / existential risk**); this page covers the whole arc but goes deep on jobs. Host: [[steven-bartlett]] · Guest: [[geoffrey-hinton]]. Raw: [[../../raw/hinton-diary-of-a-ceo.transcript|transcript]].
+> Ingested as the **counterpoint** to [[jensen-huang-cna-interview]] on [[ai-and-jobs]]. The episode is wide-ranging (mostly AI **safety / existential risk**); this page covers the whole arc but goes deep on jobs. Host: [[steven-bartlett]] · Guest: [[geoffrey-hinton]]. Raw: [[hinton-diary-of-a-ceo.transcript|transcript]].
 
 ## TL;DR
 Geoffrey Hinton — "Godfather of AI," 2024 Nobel laureate who left Google in 2023 to warn about AI — argues this technology is **categorically different** from past automation: it replaces *intelligence itself*, not just a task. On jobs he is the direct inverse of [[jensen-huang|Jensen Huang]]: "for mundane intellectual labour, AI is just going to replace everybody," meaning **far fewer people** even where a "human + AI" does the work. He expects widening [[ai-and-jobs|inequality]], thinks individuals can do little, and prescribes "highly regulated capitalism." The bulk of the episode is his deeper fear — loss of control to a [[ai-existential-risk|superintelligence]] he thinks may arrive in ~20 years.
@@ -53,4 +53,4 @@ Geoffrey Hinton — "Godfather of AI," 2024 Nobel laureate who left Google in 20
 - People: [[geoffrey-hinton]], [[steven-bartlett]].
 
 ## Raw source
-[[../../raw/hinton-diary-of-a-ceo.transcript|raw/hinton-diary-of-a-ceo.transcript.md]] · captions `…en-orig.vtt` · metadata `…info.json`.
+[[hinton-diary-of-a-ceo.transcript|raw/hinton-diary-of-a-ceo.transcript.md]] · captions `…en-orig.vtt` · metadata `…info.json`.

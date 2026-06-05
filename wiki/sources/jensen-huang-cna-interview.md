@@ -14,7 +14,7 @@ scope: "Full interview (00:00 → 56:13)"
 
 # Jensen Huang × CNA — AI revolution, jobs, China, Taiwan, leadership
 
-> ✅ **Full interview ingested** (00:00 → 56:13, auto-captions cleaned). Raw: [[../../raw/jensen-huang-cna-interview.transcript|transcript]].
+> ✅ **Full interview ingested** (00:00 → 56:13, auto-captions cleaned). Raw: [[jensen-huang-cna-interview.transcript|transcript]].
 
 Interviewer: [[victoria-jen]] · Subject: [[jensen-huang]] · Filmed 2026-05-25 in Taipei.
 
@@ -63,4 +63,4 @@ Jensen Huang argues AI is a general-purpose industrial revolution best understoo
 - **Counterpoint now filed:** [[hinton-diary-of-a-ceo]] provides the pessimist pole on [[ai-and-jobs]].
 
 ## Raw source
-[[../../raw/jensen-huang-cna-interview.transcript|raw/jensen-huang-cna-interview.transcript.md]] · captions `…en-orig.vtt` · metadata `…info.json`.
+[[jensen-huang-cna-interview.transcript|raw/jensen-huang-cna-interview.transcript.md]] · captions `…en-orig.vtt` · metadata `…info.json`.

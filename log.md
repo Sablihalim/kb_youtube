@@ -24,3 +24,6 @@ Ingested to balance [[ai-and-jobs]]. Source: YouTube `giT0ytynSqg` (The Diary Of
 New pages: source [[hinton-diary-of-a-ceo]]; people [[geoffrey-hinton]], [[steven-bartlett]]; channel [[the-diary-of-a-ceo]]; concept [[ai-existential-risk]].
 Rewrote [[ai-and-jobs]] as a two-sided debate (Huang optimist vs Hinton pessimist + points of agreement). Updated [[index]], [[overview]], and the Huang source page (gap closed).
 Next suggested: an economist (e.g. Daron Acemoglu) to adjudicate with data — the crux is elasticity of demand by sector.
+
+## [2026-06-05] lint | First health-check (2 sources, 27 pages)
+Built the link graph. **Fixed:** 4 non-idiomatic `[[../../raw/…]]` path-style links in the two source pages → plain basename links (Obsidian resolves by note name; the old form was effectively broken and orphaned both raw transcripts). **Clean now:** no real broken links (only the illustrative `[[file-slug]]` examples in CLAUDE.md), no content orphans (only log.md, by design), no accidental contradictions (the Huang↔Hinton jobs tension is intentional and framed as a debate). **Suggested (not actioned):** create-on-demand pages for recurring entities (OpenAI, Ilya Sutskever, Xi Jinping, Trump, robotics/physical-AI, UBI); thicken [[ai-existential-risk]]; and the parked Acemoglu data-arbiter for [[ai-and-jobs]].
