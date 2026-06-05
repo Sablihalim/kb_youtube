@@ -1,0 +1,8 @@
+# Obsidian workspace (keep plugin/config out unless you want it tracked)
+.obsidian/workspace*
+.obsidian/cache
+
+# OS noise
+Thumbs.db
+desktop.ini
+.DS_Store
