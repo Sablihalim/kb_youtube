@@ -17,7 +17,12 @@ A personal knowledge base built from YouTube videos, weighted toward **tech/AI**
 - **Analyses** — answers to questions I've asked, filed for reuse.
 
 ## Themes
-_Will populate as sources are ingested — recurring topics, tensions, and through-lines across videos._
+*(1 source so far — first 33:00 of the Jensen Huang × CNA interview.)*
+- **AI as an industry, not a model** — the [[ai-five-layer-cake]] (energy → chips → infrastructure → models → applications) and [[agentic-ai]] are the core mental models seeded so far.
+- **AI & the labor market** — [[ai-and-jobs]]: the optimistic "you'll lose your job to someone who learned AI" thesis. Currently one-sided; needs an opposing view ingested.
+- **AI geopolitics** — [[ai-us-china-competition]]: rivalry, export-control blowback, and the compete-vs-cooperate question; [[tsmc|Taiwan]] as the manufacturing fulcrum.
 
 ## Open questions
-_Threads worth pulling, gaps to fill, videos to find._
+- Ingest the **final ~23 min** of [[jensen-huang-cna-interview]] (leadership, his parents, Morris Chang, "what drives him").
+- Add an **opposing view on AI & jobs** to balance [[ai-and-jobs]] (the layoff-wave / lump-of-labor critique).
+- The companies named (Huawei, Alibaba, Xiaomi, Tencent, BYD, GE Vernova, Siemens) and people (Xi Jinping, Li Qiang, Trump, Morris Chang) lack pages — create on demand as they recur.
