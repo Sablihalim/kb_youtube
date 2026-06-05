@@ -60,7 +60,7 @@ Jensen Huang argues AI is a general-purpose industrial revolution best understoo
 - Frameworks: [[ai-five-layer-cake]], [[agentic-ai]], [[intelligence-as-a-commodity]].
 - Argument threads: [[ai-and-jobs]], [[ai-us-china-competition]], [[leadership-in-the-age-of-ai]].
 - People: [[jensen-huang]], [[victoria-jen]], [[morris-chang]].
-- **Open thread:** still one-sided on AI & jobs — ingest an opposing-view video to balance [[ai-and-jobs]].
+- **Counterpoint now filed:** [[hinton-diary-of-a-ceo]] provides the pessimist pole on [[ai-and-jobs]].
 
 ## Raw source
 [[../../raw/jensen-huang-cna-interview.transcript|raw/jensen-huang-cna-interview.transcript.md]] · captions `…en-orig.vtt` · metadata `…info.json`.

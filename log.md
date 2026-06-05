@@ -18,3 +18,9 @@ Completed the interview (33:00 → 56:13). Regenerated raw transcript to the **f
 New pages: person [[morris-chang]]; concepts [[leadership-in-the-age-of-ai]], [[intelligence-as-a-commodity]].
 Enriched: [[jensen-huang]] (upbringing, parents, work ethic, "die on the job", family); [[ai-and-jobs]] (150yr/2% GDP argument, tech-divide/abundance, sharpened "too lazy", the children test); [[nvidia]] (Grace Blackwell + Vera Rubin ~$1T, "smallest large company", retention); [[tsmc]] (Morris Chang, $1T to Taiwan). Updated [[index]] and [[overview]] (added Leadership theme; removed the "ingest final 23 min" open item).
 Remaining gap: still one-sided on AI & jobs — needs an opposing-view source.
+
+## [2026-06-05] ingest | Geoffrey Hinton × The Diary Of A CEO — AI & jobs COUNTERPOINT
+Ingested to balance [[ai-and-jobs]]. Source: YouTube `giT0ytynSqg` (The Diary Of A CEO, host Steven Bartlett, 1:30:07, ~13M views, published 2025-06-16). Captions via yt-dlp (en-orig), de-duplicated; full transcript saved. Episode is mostly AI safety/existential risk; processed in depth for the jobs chapters (~39:51–54:29).
+New pages: source [[hinton-diary-of-a-ceo]]; people [[geoffrey-hinton]], [[steven-bartlett]]; channel [[the-diary-of-a-ceo]]; concept [[ai-existential-risk]].
+Rewrote [[ai-and-jobs]] as a two-sided debate (Huang optimist vs Hinton pessimist + points of agreement). Updated [[index]], [[overview]], and the Huang source page (gap closed).
+Next suggested: an economist (e.g. Daron Acemoglu) to adjudicate with data — the crux is elasticity of demand by sector.
