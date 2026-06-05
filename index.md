@@ -16,6 +16,7 @@ Catalog of every wiki page. Grouped by type. Updated on every ingest. See [[over
 - [[morris-chang]] — Founder of [[tsmc]]; close friend and early backer of Jensen Huang.
 - [[geoffrey-hinton]] — "Godfather of AI," Nobel laureate; AI-risk and job-loss pessimist.
 - [[steven-bartlett]] — Entrepreneur; host of The Diary Of A CEO.
+- [[ilya-sutskever]] — OpenAI co-founder / ex-chief scientist; left over safety concerns.
 
 ## Concepts
 - [[ai-five-layer-cake]] — Huang's stack framing of AI: energy → chips → infrastructure → models → applications.
@@ -31,6 +32,7 @@ Catalog of every wiki page. Grouped by type. Updated on every ingest. See [[over
 - [[tsmc]] — Taiwan semiconductor ecosystem; AI manufacturing epicenter. *(company)*
 - [[chatgpt]] — OpenAI conversational AI (models layer). *(tool)*
 - [[claude-code]] — Anthropic agentic coding tool (agentic-AI example). *(tool)*
+- [[openai]] — AI lab; creator of GPT/ChatGPT. *(company)*
 
 ## Analyses (filed query results)
 _None yet._

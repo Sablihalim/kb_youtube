@@ -26,5 +26,5 @@ A personal knowledge base built from YouTube videos, weighted toward **tech/AI**
 
 ## Open questions
 - **Adjudicate the jobs debate with data:** ingest an economist (e.g. Daron Acemoglu — ~5% of jobs exposed this decade, executive forecasts as "motivated reasoning"). The crux is *elasticity of demand* across sectors. *Top priority.*
-- The companies/people named across sources (Huawei, Alibaba, Tencent, BYD; Ilya Sutskever, OpenAI; Xi Jinping, Trump) lack pages — create on demand as they recur.
+- Other names across sources (Huawei, Alibaba, Tencent, BYD; Google; Xi Jinping, Trump) still lack pages — create on demand as they recur. ([[openai]] and [[ilya-sutskever]] now paged.)
 - A future video on **agentic AI / robotics** would deepen [[agentic-ai]] (the "physical AI agent" thread).

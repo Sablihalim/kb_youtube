@@ -35,7 +35,7 @@ Geoffrey Hinton — "Godfather of AI," 2024 Nobel laureate who left Google in 20
 - **Loss of control:** the "dumb CEO + brilliant executive assistant" parable — fine until the assistant thinks "why do we need him?"
 - **Other risks** flagged: cyber-attacks, AI-designed viruses, corrupt elections, echo chambers, lethal autonomous weapons.
 - **What to do:** individuals can do "not much" (likens it to climate change — decided by whether corporate lobbyists are controlled); pressure governments to force **AI safety** work. Macro prescription: "highly regulated capitalism."
-- **Ilya Sutskever** leaving OpenAI over safety is treated as "haunting." Hinton's own emotional note: at 77 he'll "be out of it," but fears for his children's future.
+- **[[ilya-sutskever]]** leaving [[openai]] over safety is treated as "haunting." Hinton's own emotional note: at 77 he'll "be out of it," but fears for his children's future.
 
 ## Notable quotes
 - "For mundane intellectual labour, AI is just going to replace everybody." (~40:00)
@@ -45,7 +45,7 @@ Geoffrey Hinton — "Godfather of AI," 2024 Nobel laureate who left Google in 20
 - "What you need is highly regulated capitalism." (~78:00)
 
 ## References mentioned
-[[geoffrey-hinton]] · Ilya Sutskever · OpenAI · Google · the IMF · George Boole, George Everest, Joan Hinton (his family tree).
+[[geoffrey-hinton]] · [[ilya-sutskever]] · [[openai]] · Google · the IMF · George Boole, George Everest, Joan Hinton (his family tree).
 
 ## Connections
 - **Primary purpose:** the pessimist pole of [[ai-and-jobs]] — counterpoint to [[jensen-huang-cna-interview]].
