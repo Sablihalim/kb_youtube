@@ -12,8 +12,8 @@ Taiwan's contract-chip manufacturing base (TSMC and the surrounding packaging/co
 
 ## Why it comes up
 - "Taiwan has the letters AI in it." Sits in the **chips** layer of the [[ai-five-layer-cake]].
-- Themes: supply-chain diversification (fabs being built worldwide for resilience) *and* continued Taiwan growth; high energy/land pressure; robotics as the next growth driver; [[nvidia|Nvidia]] spends most of its AI-infra capex here.
-- Morris Chang (TSMC founder) is discussed in the **post-33:00** portion — *not yet ingested*.
+- Themes: supply-chain diversification (fabs being built worldwide for resilience) *and* continued Taiwan growth; high energy/land pressure; robotics as the next growth driver; [[nvidia|Nvidia]] spends most of its AI-infra capex here (~$1T of Grace Blackwell + Vera Rubin sales largely flowing to Taiwan).
+- **Founder [[morris-chang]]** is a close friend and early backer of Huang: "Without TSMC and Morris, Nvidia wouldn't be here today."
 
 ## Mentioned in
 - [[jensen-huang-cna-interview]].

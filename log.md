@@ -12,3 +12,9 @@ Scaffolded the kb_youtube LLM Wiki: schema (`CLAUDE.md`), `index.md`, `log.md`, 
 ## [2026-06-05] ingest | Nvidia's Jensen Huang on the AI revolution… (CNA) — FIRST 33:00
 First ingest. Source: YouTube `XVoyL8rzhWs` (CNA, interviewer Victoria Jen, 56:13 total). Captions pulled via yt-dlp (installed it; no transcript available via WebFetch), de-duplicated from the en-orig VTT, cut at 32:59. **Partial — final ~23 min not yet ingested.**
 Pages touched: raw `jensen-huang-cna-interview.transcript.md` (+ original .vtt/.info.json); source [[jensen-huang-cna-interview]]; channel [[cna]]; people [[jensen-huang]], [[victoria-jen]]; concepts [[ai-five-layer-cake]], [[agentic-ai]], [[ai-and-jobs]], [[ai-us-china-competition]]; references [[nvidia]], [[tsmc]], [[chatgpt]], [[claude-code]]; updated [[index]] and [[overview]].
+
+## [2026-06-05] ingest | Jensen Huang × CNA — FINAL ~23:00 (now full)
+Completed the interview (33:00 → 56:13). Regenerated raw transcript to the **full** 00:00–56:13 and updated the source page scope from partial to full.
+New pages: person [[morris-chang]]; concepts [[leadership-in-the-age-of-ai]], [[intelligence-as-a-commodity]].
+Enriched: [[jensen-huang]] (upbringing, parents, work ethic, "die on the job", family); [[ai-and-jobs]] (150yr/2% GDP argument, tech-divide/abundance, sharpened "too lazy", the children test); [[nvidia]] (Grace Blackwell + Vera Rubin ~$1T, "smallest large company", retention); [[tsmc]] (Morris Chang, $1T to Taiwan). Updated [[index]] and [[overview]] (added Leadership theme; removed the "ingest final 23 min" open item).
+Remaining gap: still one-sided on AI & jobs — needs an opposing-view source.

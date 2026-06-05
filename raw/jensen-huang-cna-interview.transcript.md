@@ -8,15 +8,15 @@ filmed: 2026-05-25
 published: 2026-05-29
 full_duration: "56:13"
 captured: 2026-06-05
-scope: First 33:00 of the interview (auto-captions, cleaned)
+scope: Full interview (00:00 -> 56:13), auto-captions cleaned
 captions: auto-generated (en-orig), de-duplicated from VTT
 ---
 
-# RAW — Jensen Huang x CNA (Victoria Jen), first 33:00
+# RAW — Jensen Huang x CNA (Victoria Jen), full interview
 
-> Source: YouTube auto-captions (`en-orig`) downloaded via yt-dlp, de-duplicated and line-wrapped.
-> `>>` marks a speaker turn (alternating Victoria Jen / Jensen Huang). Coverage: 00:00 -> 32:59,
-> i.e. through the "Role of Taiwan in the AI race" chapter. Original `.vtt` and `.info.json` kept alongside.
+> Source: YouTube auto-captions (`en-orig`) via yt-dlp, de-duplicated and line-wrapped.
+> `>>` marks a speaker turn (alternating Victoria Jen / Jensen Huang). Full 00:00 -> 56:13.
+> Original `.vtt` and `.info.json` kept alongside.
 
 ---
 
@@ -773,3 +773,523 @@ spend is in Taiwan. And so, we've we've
 invested through the most the best form
 of investment, which is business, uh,
 hundreds of billions of dollars into
+Taiwan. And if you look at our next
+several years, uh, between Grace
+Blackwell and Vera Rubin, we have $1
+trillion of sales.
+One trillion dollars of sales is
+hundreds of billions of dollars of
+spending equipped revenues that will
+come into Taiwan. It's just an
+extraordinary number and the highest
+ever in history for Taiwan. And so so
+that's that's our our best form of
+investment. Uh we of course also invest
+in companies here. We support them with
+prepayments. We support them with
+investment in their capital. We support
+them with commitments in our purchase.
+And then uh my favorite form of
+investment is still ultimately people
+hiring a lot of engineers here and
+having a lot of uh great employees here
+in Taiwan. and also among all the
+business leaders in Taiwan. I know
+you're very close to Morris Chain, TSMC
+founder and can you describe your
+friendship and also what have you
+learned from him?
+>> I I learned from him every time I'm with
+him. I was with him last night. Uh
+Morris Morris and Sophie had my parents
+Lori and I and and Madison was with us
+as well. We were over to for dinner. We
+had a wonderful time together. Um, you
+know, of course Morris and I have a lot
+in common uh because because uh uh we
+grew, you know, I grew up uh with the
+support of Morris and and uh when I came
+to Taiwan
+uh for the first time after
+I left when I was five years go five
+years old. Uh I came back for the first
+time to see Morris and um I've I've been
+coming back a lot since then and so so
+um you know without without TSMC and
+Morris uh Nvidia wouldn't be here today
+and it was the support and the
+friendship and and the and the risk that
+they take and back in the old days when
+we were quite small um all all of the
+things that that and our growth together
+innovation together and and of course uh
+the creation of of the AI industry that
+we know today together. Um all of that
+all of our journey and all of our
+history uh are highly intertwined. And
+so we we you know we in a lot of ways um
+I grew up with the support of Morris and
+the support of TSMC. Uh we have a lot of
+interest in in how the industry is
+forming. Um we have a lot of we have a
+lot of interest in in uh ensuring the
+continued success uh of the industry.
+And of course, you know, we have a lot
+of a lot of wonderful life stories to
+share with each other. And uh he he's a
+he's an incredible uh avid reader. And
+so it's always fun to to hear about, you
+know, his his uh summaries of the books
+that he's read and and um you know, and
+and so all of all of that is great. I
+always I always treasure my time with
+him and he's he's doing great. Uh and um
+we always have a nice nice glass of
+whiskey together.
+>> That's nice. Um, now let's move on to
+the fun part. Let's talk about you. Um,
+born in Taiwan, lived in Thailand before
+moving to the US.
+>> How have those experiences shape who you
+are today and the way you lead?
+>> Uh, I I guess I guess we're all the
+products of our parents. Um, my father
+is is very technical. I very precise.
+uh does work perfectly and uh perfect
+handwriting, does everything perfectly,
+you know, his his level of craft and
+precision and just the way he does
+everything in his life um is something
+that I had the benefit of learning from
+and and uh on the other hand u my mom's
+uh obsession for details uh uh just a a
+deep obsession for for um you know she
+She has a personality that can't let
+anything go, you know, and and um in a
+lot of ways, I think I've picked up that
+part of her her uh her her behavior and
+and so, you know, I I can focus on
+something for a very long time like it
+for 33 years and uh and uh every day I'm
+equally obsessed and equally, you know,
+equally uh intense about about doing a
+good job and and so I think I had the
+benefit of of uh uh growing up uh with a
+lot of those Taiwanese characteristics,
+you know, um they're they're they're
+very much like a Taiwanese Taiwanese uh
+parent. Um I I also think that that we
+grew up they they sacrificed a lot uh
+leaving Taiwan and and uh left their
+left families behind and uh they went to
+Thailand with very little and they went
+to United States with nothing. And so um
+when they went to United States uh we
+were basically alone. Uh there were no
+friends, no family uh you know to be
+there with us and um
+and because they were they were so
+modest uh and we had so little uh and
+and uh uh living in the United States
+going from Taiwan is is very challenging
+because the cost of living is so much
+higher and and so I I think I think um
+our humble humble uh life and uh uh and
+just seeing my parents uh struggle and
+and um uh finding a place in in a
+strange world uh and the risks that they
+took so that we can we can grow up in
+America and enjoy the American dream uh
+and have the opportunities that led to
+led to uh Nvidia today and led to me
+today. uh that all of those sacrifices
+um uh instills instills a a character in
+you. And so uh I'm grateful for uh all
+the sacrifices and the hard work that
+they they uh uh they made so that I
+could be here and so but I think that
+that journey was really an important
+part. In your company, you're known to
+be a tough boss,
+>> and you've said that um you rather
+torture people to greatness than to fire
+them. How exactly do you do that?
+>> I Well, it's not it's not physical
+torture.
+It's it's the it's torture the same way
+that Taiwanese parents torture people,
+you know. You know, a Taiwanese parent,
+it nothing is ever good enough.
+Nothing is ever good enough. and and uh
+you can't go you can't go a day without
+without some criticism.
+And that's the Taiwanese way. And I'm
+kind of the same way. Uh you can't you
+can't show me something without me
+giving you some criticism. And and I
+guess in a lot of ways that that's
+that's my form of torture. You know, I I
+will I will give you my feedback um
+always always uh immediately. Um I'll
+never save it away.
+uh once I give you my feedback, just
+like a Taiwanese parent, once the
+feedback is given, you're back to loving
+the person again. And and so you're I'm
+I'm always uh I'm always uh uh critical
+of of everybody's work so that I can
+help them be better. I want them to be
+better. I know they could be better. And
+and so that's where where it's coming
+from. And uh you know, maybe maybe a lot
+of that is my Taiwanese parent. And how
+do they how do your employees respond to
+that?
+>> Well, you know, Nvidia's Nvidia's
+retention is the best in the world. Uh
+uh we have we have employees that have
+been with me now for 33 years. And so
+people don't people don't uh don't quit
+easily from from Nvidia. and and uh uh
+you know we my job is to create an
+environment where all of these amazing
+computer scientists and engineers and um
+supply chain experts can come to Nvidia
+to do their life's work and that's my
+job to create that condition so that
+they could realize their dreams just as
+that just as they've helped me realize
+my dreams and um I and I I think that
+that's ultimately the purpose of
+leadership is to create the conditions
+for other people to realize their
+dreams. Uh to to be part of yours, of
+course, and to be part of something
+bigger. Uh but to to be able to turn
+their their what is their job, their
+profession, their craft hopefully into
+their life's work. And um at NVIDIA, you
+could do that.
+>> And we know that you work seven days a
+week.
+>> Um what drives you dayto day and where
+exactly do you get all that energy?
+I'm exhausted all the time. [laughter]
+Um,
+what what drives me uh I mean it's it's
+some it's several things. it it's on the
+one hand I I on the one hand it's as as
+basic as I don't want to fail and I
+don't want Nvidia to fail and uh I don't
+I don't want Nvidia to fail because we
+have too many uh too many people who who
+are counting on me and so uh you know
+it's employees as our partners as our
+ecosystem uh partners is you know all of
+my friends here in Taiwan I want
+everybody to succeed and so there's
+there's a there's a burden on on leaders
+uh that want everybody to to to flourish
+and to realize their dreams and to, you
+know, to hopefully uh succeed with us.
+And so there's a there's a there's a
+burden that comes with that and and um
+that gets me out of bed every day. Uh at
+the same time there's a there's a
+hopeful optimistic
+um uh ambitious part of me that that
+wants to build something that that uh
+makes an impact makes a contribution. Uh
+there's a there's a dreamer part of me
+that that wants to create that future
+and hope hope to see it in my lifetime.
+And so I'm in a hurry to to uh have it
+come true. Um and so it's simultaneously
+the burden of the burden of of uh of
+success and and wanting other people to
+come along. Uh the the fear of failure
+uh that that somehow because of how I
+was raised uh because Nvidia has enjoyed
+um and gone through a lot of very
+difficult time. It was not easy to build
+Nvidia. It was not easy to to uh uh to
+be here today. and and all of the
+struggles can never leave my body. You
+know, once once you've struggled as
+deeply as as Nvidia has and as I as I've
+had the the benefit of, it becomes part
+of your character and it never leaves
+you. And so, simultaneously, all of this
+is happening in my body, in my brain.
+And and so,
+you can't help but be, you know, always
+thinking about work. Mhm. And you uh
+some people have said that you still
+have another 30 years running Nvidia.
+What do you think about that? And what
+kind of leader do you think should
+succeed you?
+>> I I I would like to work as long as I
+can. You know,
+I hope to die on the job. That would
+that would be the that would be a dream
+come true. [laughter]
+And so so uh um I can't imagine a a more
+meaningful life. I'm surrounded by my
+family, my kids. Uh both of them work in
+Nvidia and and I have the benefit of
+seeing them all the time and I'm proud
+of them and the company's proud of them
+and they love the company and so I get
+to see them all the time. Um, you know,
+Lori Lori's been with me for for a long
+time, our whole life. And and um I and
+she, you know, she's been part of Nvidia
+every step of the way. And aside from
+aside from Lori, I don't think anyone
+has been to every conference. And she's
+she's been to every conference, every
+speech, you know, and and um every
+moment of NVIDIA, she was there. And and
+so I I have the benefit
+of of uh me really meaningful work um
+and a company with incredible people and
+and employees that that can achieve
+almost anything and I'm surrounded by
+the love of my parents and my family
+that that you know are part of this
+journey with me and so so I can't
+imagine doing anything else frankly I
+can't imagine doing anything else more
+meaningful um with respect to the next
+generation uh leadership
+is about creating the conditions
+um for other people to be empowered. You
+know, NVIA is giant
+and yet we're small company. We are the
+world's smallest large company and and
+that's only possible because so many
+leaders at NVIDIA, so many people and
+empowered to do their to do the work.
+And so I constantly um uh explain our
+strategy transparently. I constantly
+reason about complicated situations in
+front of people so that they could help
+me doublech checkck my reasoning
+patterns and my reasoning logic. And um
+uh on the other hand, you're also
+exposing them through how you think
+through complicated and ambiguous
+uncertain circumstances. And so the
+combination of empowering people,
+letting them run, um, uh, aligning early
+on what our strategies are, our guard
+rails are, and then reasoning in front
+of people, uh, really helps everybody
+become more successful, become more
+empowered. Well, the next the next
+generation, the next leader of Nvidia is
+already working there and
+uh, it's my job to cultivate hundreds of
+amazing choices. And you just never know
+who the right next person is. And and um
+I and the and the reason for that is
+because we don't know what Nvidia is
+going to be like in 30 years or 10 or
+20. And we don't know what the
+circumstances are in this future that
+artificial intelligence and that we're
+help creating. And so it would be it
+would be presumptuous and and arguably
+even arrogant to think that I would know
+what the perfect leader is going to be
+in 10 20 years. They're just we're just
+going to have to evolve until we we uh
+we know for certain. But the one thing
+that I will tell you is that the leader
+um for Nvidia would have to care about
+uh uh the employees, the ecosystem, the
+partners more than they care about
+themselves.
+And a great a great leader is selfless
+and uh always in service of of um uh of
+of the culture of the company, the
+mission of the company, the people of
+the company, always in service of other
+people. Uh it is very likely that that
+um uh that this this leader will will uh
+be in a in a in an era a time where
+intelligence is a commodity that the
+ability to write code, solve problems,
+um even scientific discovery is arguably
+completely automated. the one thing that
+we value so much in my generation which
+is knowledge and and technical skills
+and problem solving. Um the sciences,
+technologies, the maths um all of that
+is like likely going to be a commodity.
+And so therefore what remains what
+remains is ambition and character,
+imagination and um the empathy and
+generosity and kindness and you know the
+skills the soft skills that that defines
+a person
+beyond their intelligence and and so I I
+think those things will will likely
+become uh quite important. And then and
+then and I would say um may very well be
+uh the greatest asset of any leader
+which is the the desire of everyone
+around them to see them succeed. There
+are there are leaders that you just
+there are people that you just wish them
+to be more successful because they're
+kind to other people and they're
+generous to other people and you just
+want to see them succeed and there are
+people who are successful and you would
+hope to see them fail and and so so I I
+think that the future leaders are going
+to be the ones that somehow embody the
+the characters um the intangibles
+that that leads other people to want
+them to succeed and and and be led and
+to be part
+I see. I hope you don't mind me going
+back to the question about job cuts. How
+how would you say that job cuts are
+inevitable
+because of AI?
+>> It is very likely there will be more
+jobs in 5 years than there are today.
+Many more jobs.
+Some jobs will be different. Some jobs
+will be gone and many new jobs will be
+emerged. And I can say that with almost
+certainty and the reason for that is
+this. The world has been growing the GDP
+of the world has been growing at about
+2% per year. 2% per year for 150 years.
+for 150 years where there was the
+industrial revolution with electricity,
+information technology, transportation,
+steam, you know, manufacturing equipment
+all the way to personal computers and
+internet and cell phones and so on so
+forth and artificial intelligence. It's
+been on a solid 2% per year and it's
+it's incredible. And um my sense is that
+well my belief is that that um all of
+those technologies at the time were
+transformative. Of course they were. How
+you and I live our lives today and how
+150 years ago people live their lives,
+the industries, the companies,
+my goodness, uh completely different.
+And yet 2% per year. The number of jobs
+that have been created in the last 150
+years, incredible. The number of jobs
+that will be created in the next 150
+years is going to be utterly incredible.
+Of course, some jobs will be very
+different. Let's let's imagine that um
+prosperity
+uh AI has the opportunity to close the
+technology divide like no technology
+ever has. For example, you are a better
+user of computers today as a news
+reporter than at any time in history
+because you can program the computer to
+do whatever. If you want your own
+website, if you want your own broadcast,
+you can just ask the AI to help you
+create it.
+You're now a programmer just like I am a
+programmer. And so for the first time,
+AI has closed the technology divide. we
+have the opportunity to bring everybody
+along in this new technology revolution.
+That's a very big deal. The second,
+of course, AI will likely change the
+shape of the services industry, the
+manufacturing industry, and very also
+very importantly, the consumption
+industry, the entertainment industry. It
+is more likely that um people are going
+to consume more because we're more
+prosperous. And because we're going to
+consume more, it is very likely that the
+leisure industry and um you know the
+creation of content will enjoy more
+because we'll have more time to enjoy
+the content that you create. And uh
+hopefully we'll have the opportunity to
+travel more so that people are traveling
+around the world learning about
+different cultures and we can close the
+close the culture divides and you know
+and so there's a there's an optimistic
+future that uh that uh I imagine and
+facts would support my imagination of
+that future and um and and I think the
+the narrative that connects AI to job
+loss for many of the CEOs that are doing
+it. Um, it is just too lazy. It's just
+too lazy. AI has just arrived. How is it
+possible they're already losing jobs?
+You know, how is it possible that AI
+became productive and useful only six
+months ago and they were they were
+cancelling they were somehow laying
+people off two years ago because of AI.
+It doesn't make any sense. It was just
+it was just a way for them to sound
+smart. And I really hate that. Um I
+would I think we're scaring people and
+that's irresponsible. I think we should
+tell a balanced story, a balanced
+narrative about the potential of this
+cap of this technology, the importance
+of advancing it safely security
+guardrailed with necessary social,
+political, government, government,
+industrial policies to ensure that it
+advances safely. On the other hand, tell
+a story that's optimistic so that people
+want to be part of it. We want the young
+people of this generation to engage it.
+And so here's my test.
+Here's my s simple test for all the
+audience.
+What are you advising your children to
+do?
+Are you advising them
+to engage AI or to reject AI and be left
+behind?
+Are you advising them to use AI to
+elevate their learning, to elevate their
+profession when they can or are you
+telling them don't use this technology
+and let other people use it? And so all
+I have no question in my mind that every
+single parent is saying you have to
+learn about this technology, use it
+wisely, use it wisely, but use it to
+elevate yourself.
+if that is what they're advising their
+children for what reason are they not
+advising it for other people and so I
+would recommend that um uh I see a
+future that's op optimistic I see a
+future that is has more abundance
+abundance of intelligence abundance of
+labor abundance of goods um is going to
+therefore create opportunities for us to
+consume more
+>> you know so if you if you were a a
+connoisseur of fashion you're going to
+have a lot more a lot more opportunity
+to consume that.
+>> Thank you so much, Jensen. I really
+enjoy your conversation.
+>> Thank you very much, Victoria.

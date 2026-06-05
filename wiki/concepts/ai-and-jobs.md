@@ -17,6 +17,10 @@ From [[jensen-huang-cna-interview]]:
 - **Productivity → more hiring:** ambitious firms get faster, larger, more profitable, and then hire *more* people. Nvidia uses "AI all over the company" and is hiring more.
 - **The lump-of-labor fallacy:** the belief that there is only a fixed amount of work ("only so much code to write") is "obviously false"; greater ambition + automation raise GDP and prosperity.
 - **The radiologist case study:** AI *was* predicted to wipe out radiology and *did* revolutionize it — yet the number of radiologists, demand, and pay all **rose**.
+- **The 150-year / 2% argument (his strongest framing, ~51:00):** world GDP has grown ~2%/yr for 150 years *through* every prior revolution (steam, electricity, IT, PC, internet, mobile). Each was transformative, yet the through-line held and jobs were created en masse. "It is very likely there will be more jobs in 5 years than there are today. Many more jobs… The number of jobs created in the next 150 years is going to be utterly incredible."
+- **AI closes the technology divide → abundance:** AI lets anyone direct a computer ("you're now a programmer"), broadening participation (links to [[intelligence-as-a-commodity]]). Abundance of intelligence/labor/goods → more consumption, leisure, content, and travel.
+- **"Too lazy," sharpened:** "AI just arrived — how is it possible they're laying people off two years ago because of AI? It doesn't make sense… it was just a way for them to sound smart. We're scaring people and that's irresponsible." He wants a *balanced and optimistic* narrative.
+- **His test for the audience:** "What are you advising your children to do — engage AI, or reject it and be left behind?" Every parent says *learn it* — so why advise otherwise for everyone else?
 - **Caveat he grants:** industries must build AI safely, with guardrails, and update existing regulations (healthcare, transport, aviation) to be "AI-ready."
 
 ## Counter-context (from search, not yet a source page)

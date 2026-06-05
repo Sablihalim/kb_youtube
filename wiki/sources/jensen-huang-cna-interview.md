@@ -9,45 +9,58 @@ duration: "56:13"
 ingested: 2026-06-05
 topics: [ai, agentic-ai, jobs, automation, us-china, taiwan, semiconductors, leadership]
 tags: [source]
-scope: "First 33:00 only (Introduction → Role of Taiwan)"
+scope: "Full interview (00:00 → 56:13)"
 ---
 
-# Jensen Huang × CNA — AI revolution, jobs, China, Taiwan
+# Jensen Huang × CNA — AI revolution, jobs, China, Taiwan, leadership
 
-> ⚠️ **Partial ingest:** covers the **first 33:00** of a 56:13 interview (auto-captions, cleaned). Chapters after ~33:00 (Morris Chang friendship, his parents, "torturing people to greatness", what drives him, the cold-open "die on the job") are **not yet ingested**. Raw: [[../../raw/jensen-huang-cna-interview.transcript|transcript]].
+> ✅ **Full interview ingested** (00:00 → 56:13, auto-captions cleaned). Raw: [[../../raw/jensen-huang-cna-interview.transcript|transcript]].
 
 Interviewer: [[victoria-jen]] · Subject: [[jensen-huang]] · Filmed 2026-05-25 in Taipei.
 
 ## TL;DR
-Jensen Huang argues AI is a general-purpose industrial revolution best understood as a **[[ai-five-layer-cake|five-layer cake]]** (energy → chips → infrastructure → models → applications), not "just a model." On jobs he is bullish-contrarian: you won't lose your job to AI but to *someone who learned AI*; automation makes ambitious people and companies **busier**, not idle (see [[ai-and-jobs]]). On geopolitics he calls China "everybody's greatest rival" yet insists the US and China should **cooperate as well as compete** in AI (see [[ai-us-china-competition]]), and frames [[tsmc|Taiwan]] as the manufacturing epicenter of the AI build-out.
+Jensen Huang argues AI is a general-purpose industrial revolution best understood as a **[[ai-five-layer-cake|five-layer cake]]** (energy → chips → infrastructure → models → applications), not "just a model." On jobs he is bullish-contrarian: you won't lose your job to AI but to *someone who learned AI*; he predicts **more jobs in 5 years**, anchored to 150 years of steady ~2%/yr GDP growth (see [[ai-and-jobs]]). On geopolitics he calls China "everybody's greatest rival" yet insists the US and China should **cooperate as well as compete** ([[ai-us-china-competition]]), and frames [[tsmc|Taiwan]] as the manufacturing epicenter. The personal half covers his upbringing, his friendship with [[morris-chang]], his "torture-to-greatness" feedback culture, and a [[leadership-in-the-age-of-ai|leadership philosophy]] built on empowering others — because once [[intelligence-as-a-commodity|intelligence is a commodity]], character and ambition are what remain.
 
-## Key points
-- **AI is a new industry, not just a model.** Lineage: IT (IBM) → PC (Microsoft/Intel) → internet → mobile/cloud → AI. The breakthrough operates on multiple levels: understand information, reason, plan, and — with [[agentic-ai]] — take action using tools. Applications are "vast and almost boundless."
-- **The [[ai-five-layer-cake|five-layer cake]]:** (1) **energy** (AI is generated in real time, needs power), (2) **chips** (Nvidia + Taiwan), (3) **infrastructure** (land, power, data centers, cloud software), (4) **models** ([[chatgpt|ChatGPT]], [[claude-code|Claude Code]]; also proteins, chemicals, 3D geometry — not just language), (5) **applications** (info workers, software engineers, self-driving, robotics, healthcare). "AI is reinventing every industry from energy all the way up."
-- **[[agentic-ai|Agentic AI]] = agency.** Pipeline: context/request → understand → plan → use tools (browser, editors, C/Python compilers, CUDA) → perform → evaluate → replan → iterate until done. Two forms: digital agents and **physical agents (robots)**.
-- **Will AI make us lazier?** Use history as a guide — the PC, internet, and mobile all triggered the same fear; computing got ~1,000,000× faster yet we got **busier and more ambitious**. "Students today are a hundred times smarter than when I graduated."
-- **A job is a [[ai-and-jobs|basket of tasks]].** Many tasks get automated; humans move up to the harder parts and become more ambitious. Radiologist example: AI *did* revolutionize radiology, yet the number of radiologists, demand, and pay all **rose**.
-- **On layoffs:** "You're not going to lose your job to AI. You're gonna lose your job to somebody who learned AI better than you." Calls the AI-causes-layoffs narrative "too lazy." Ambitious firms get more productive → larger/more profitable → hire more (Nvidia: AI everywhere *and* hiring more).
-- **What kids should study:** "It won't matter." Storytelling, journalism, the arts, *wabi-sabi* (the beauty of imperfection), movies, car/chip design all stay relevant. The one move: ask "how can AI elevate my craft/learning/purpose?"
-- **China trip with Trump:** flew last-minute (Trump called the morning of; Jensen met Air Force One in Alaska), ~16 CEOs, met Xi Jinping and Premier Li Qiang — "extremely welcoming," talk of cooperation and a more open market.
-- **China as rival + [[ai-us-china-competition|two ecosystems]]:** China is "everybody's greatest rival" (large *uniform* market, strong STEM, vibrant firms — Alibaba, Xiaomi, Tencent, BYD, Huawei). Export controls "left a vacuum" Chinese firms filled. Two separate AI ecosystems are "possible but not wise" because AI is **dual-use**; US and China "should cooperate in AI, not just compete."
-- **[[tsmc|Taiwan]]'s role:** "Taiwan has the letters AI in it." The computer is now a "factory"/infrastructure for the world, so supply chains must diversify *and* Taiwan keeps growing; robotics will transform its manufacturing. [[nvidia|Nvidia]] (multi-hundred-billion, ~100%/yr growth) spends most of its AI-infra capex in Taiwan and is expanding its site there.
+## Key points — AI, jobs, geopolitics (00:00–33:00)
+- **AI is a new industry, not just a model.** Lineage: IT (IBM) → PC (Microsoft/Intel) → internet → mobile/cloud → AI. The breakthrough: understand, reason, plan, and — with [[agentic-ai]] — act using tools.
+- **The [[ai-five-layer-cake|five-layer cake]]:** energy → chips ([[nvidia]] + Taiwan) → infrastructure → models ([[chatgpt]], [[claude-code]]; also proteins, chemicals, 3D geometry) → applications. "AI is reinventing every industry."
+- **[[agentic-ai|Agentic AI]] = agency:** context → understand → plan → use tools (browser, editors, C/Python, CUDA) → perform → evaluate → replan → iterate. Two forms: digital agents and **physical agents (robots)**.
+- **Won't make us lazier:** PC/internet/mobile triggered the same fear; computing got ~1,000,000× faster and we got busier and more ambitious.
+- **A job is a [[ai-and-jobs|basket of tasks]];** automation removes tasks, humans move up. Radiologist case: AI revolutionized radiology yet radiologist count, demand, and pay all rose.
+- **On layoffs:** "You won't lose your job to AI — you'll lose it to someone who learned AI better than you." Ambitious firms get more productive → larger → hire more.
+- **What kids should study:** "It won't matter" — storytelling, journalism, arts, *wabi-sabi*, movies, car/chip design stay relevant. Ask "how can AI elevate my craft?"
+- **China trip with Trump:** last-minute (met Air Force One in Alaska), ~16 CEOs, met Xi Jinping & Premier Li Qiang.
+- **China as rival + [[ai-us-china-competition|two ecosystems]]:** China is "everybody's greatest rival" (uniform market, strong STEM, vibrant firms). Export controls "left a vacuum" Huawei filled. Two ecosystems "possible but not wise" — AI is **dual-use**; "cooperate, not just compete."
+- **[[tsmc|Taiwan]]'s role:** "Taiwan has the letters AI in it"; the computer is now a "factory for the world"; supply chains diversify *and* Taiwan grows; robotics next.
+
+## Key points — Taiwan, Morris Chang, the personal half (33:00–56:13)
+- **$1 trillion into Taiwan:** Nvidia's next-gen platforms **Grace Blackwell** and **Vera Rubin** imply ~$1T of sales over the coming years → hundreds of billions flowing to Taiwan, "the highest ever in history." Investment forms: prepayments, capital, purchase commitments — "my favorite form of investment is still people."
+- **[[morris-chang|Morris Chang]] friendship:** dined together the night before (with his parents, wife Lori, and Madison). "Without TSMC and Morris, Nvidia wouldn't be here today." Came back to Taiwan to see Morris on his first return after leaving at age 5. Morris is an avid reader; they share whiskey.
+- **Upbringing:** born in Taiwan, lived in Thailand, moved to the US "with nothing." Father precise/technical (perfect handwriting); mother obsessed with detail ("can't let anything go"). Parents' sacrifice "instills character." 33 years equally obsessed/intense daily.
+- **"Torture to greatness":** not physical — like a Taiwanese parent, "nothing is ever good enough"; immediate, constant feedback, then "back to loving the person." Aimed at making people better. Nvidia retention is "the best in the world" (employees of 33 years).
+- **What drives him:** "I'm exhausted all the time." Twin engines — **fear of failure** (a burden: people are counting on him) and a **hopeful/ambitious dreamer** "in a hurry" to see the future he's building. The struggle of building Nvidia "never leaves your body."
+- **"I hope to die on the job — that would be a dream come true."** Both kids work at Nvidia; wife **Lori** has been at every conference and speech.
+- **[[leadership-in-the-age-of-ai|Leadership & succession]]:** "the world's smallest large company" — empower people, reason transparently in front of them, align on strategy/guardrails. Next leader "is already working there"; refuses to predict who. The durable leader cares about employees/ecosystem more than themselves — selfless, in service.
+- **[[intelligence-as-a-commodity|Intelligence as a commodity]]:** when code, problem-solving, even scientific discovery are automated, what remains is "ambition and character, imagination, empathy, generosity, kindness" — and the greatest leadership asset: "the desire of everyone around them to see them succeed."
+- **Jobs, reprise (his strongest version):** "It is very likely there will be more jobs in 5 years than there are today. Many more jobs." World GDP grew ~2%/yr for 150 years through every prior revolution; the next 150 will be "utterly incredible." AI **closes the technology divide** ("you're now a programmer"), boosting consumption, leisure, content, travel. The layoff narrative is "too lazy… AI just arrived — how were they laying people off two years ago because of AI? It doesn't make sense… we're scaring people and that's irresponsible." His test: *"What are you advising your children to do — engage AI, or reject it and be left behind?"*
 
 ## Notable quotes
 - "You're not going to lose your job to AI. You're gonna lose your job to somebody who learned AI better than you." (~09:40)
-- "The narrative that connects AI to job loss … is just too lazy." (cold open / ~00:00)
+- "The narrative that connects AI to job loss … is just too lazy." (~00:00 cold open; expanded ~51:00)
 - "China is going to be everybody's greatest rival." (~22:37)
-- "Two AI ecosystems … is possible but it's not wise." (~27:29)
 - "Taiwan has the letters AI in it." (~29:36)
+- "I hope to die on the job. That would be a dream come true." (~44:00)
+- "We are the world's smallest large company." (~49:00)
+- "What are you advising your children to do — engage AI or reject AI and be left behind?" (~54:00)
 
 ## References mentioned
-[[nvidia]] · [[tsmc]] · [[chatgpt]] · [[claude-code]] · Huawei, Alibaba, Xiaomi, Tencent, BYD, GE Vernova, Siemens, Mitsubishi (companies, not yet paged) · Tsinghua University · Xi Jinping, Premier Li Qiang, Donald Trump (people, not yet paged).
+[[nvidia]] (incl. Grace Blackwell, Vera Rubin) · [[tsmc]] · [[chatgpt]] · [[claude-code]] · Huawei, Alibaba, Xiaomi, Tencent, BYD, GE Vernova, Siemens, Mitsubishi · Tsinghua University · People: [[morris-chang]], Xi Jinping, Premier Li Qiang, Donald Trump, Lori Huang (wife).
 
 ## Connections
-- Frameworks introduced here: [[ai-five-layer-cake]], [[agentic-ai]].
-- Argument threads: [[ai-and-jobs]], [[ai-us-china-competition]].
-- People: [[jensen-huang]], [[victoria-jen]].
-- **Open thread:** ingest the final ~23 minutes for the leadership/personal material ("die on the job", parents, Morris Chang, what drives him).
+- Frameworks: [[ai-five-layer-cake]], [[agentic-ai]], [[intelligence-as-a-commodity]].
+- Argument threads: [[ai-and-jobs]], [[ai-us-china-competition]], [[leadership-in-the-age-of-ai]].
+- People: [[jensen-huang]], [[victoria-jen]], [[morris-chang]].
+- **Open thread:** still one-sided on AI & jobs — ingest an opposing-view video to balance [[ai-and-jobs]].
 
 ## Raw source
-[[../../raw/jensen-huang-cna-interview.transcript|raw/jensen-huang-cna-interview.transcript.md]] · original captions `jensen-huang-cna-interview.en-orig.vtt` · metadata `jensen-huang-cna-interview.info.json`.
+[[../../raw/jensen-huang-cna-interview.transcript|raw/jensen-huang-cna-interview.transcript.md]] · captions `…en-orig.vtt` · metadata `…info.json`.

@@ -3,20 +3,23 @@
 Catalog of every wiki page. Grouped by type. Updated on every ingest. See [[overview]] for the synthesis layer, `log.md` for the timeline.
 
 ## Sources (videos)
-- [[jensen-huang-cna-interview]] — Jensen Huang × CNA on the AI revolution, jobs, China, Taiwan (2026-05-29). *First 33:00 ingested; ~23 min remaining.*
+- [[jensen-huang-cna-interview]] — Jensen Huang × CNA on the AI revolution, jobs, China, Taiwan, leadership (2026-05-29). *Full interview ingested.*
 
 ## Channels
 - [[cna]] — CNA (Channel NewsAsia), Singapore English-language news; long-form tech/business interviews.
 
 ## People
-- [[jensen-huang]] — Founder & CEO of [[nvidia]]; AI/jobs/geopolitics views.
+- [[jensen-huang]] — Founder & CEO of [[nvidia]]; AI/jobs/geopolitics views, upbringing & leadership.
 - [[victoria-jen]] — CNA journalist; interviewer of the Jensen Huang interview.
+- [[morris-chang]] — Founder of [[tsmc]]; close friend and early backer of Jensen Huang.
 
 ## Concepts
 - [[ai-five-layer-cake]] — Huang's stack framing of AI: energy → chips → infrastructure → models → applications.
 - [[agentic-ai]] — AI with agency: context → plan → use tools → iterate; digital and physical (robot) forms.
-- [[ai-and-jobs]] — Debate on AI & employment; Huang's bullish-contrarian case (basket of tasks, lump-of-labor fallacy).
+- [[ai-and-jobs]] — Debate on AI & employment; Huang's bullish-contrarian case (basket of tasks, 150yr/2% GDP, "more jobs in 5 years").
 - [[ai-us-china-competition]] — Rivalry vs. cooperation; export-control "vacuum"; two-ecosystem question; dual-use.
+- [[leadership-in-the-age-of-ai]] — Empower others, reason transparently, "torture to greatness," selfless succession.
+- [[intelligence-as-a-commodity]] — When cognition is cheap, character/ambition/empathy become the edge.
 
 ## References (tools · papers · projects · books)
 - [[nvidia]] — AI chip/computing company (chips layer). *(company)*
