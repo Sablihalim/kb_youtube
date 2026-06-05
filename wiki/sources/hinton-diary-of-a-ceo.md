@@ -51,6 +51,7 @@ Geoffrey Hinton — "Godfather of AI," 2024 Nobel laureate who left Google in 20
 - **Primary purpose:** the pessimist pole of [[ai-and-jobs]] — counterpoint to [[jensen-huang-cna-interview]].
 - New theme seeded: [[ai-existential-risk]].
 - People: [[geoffrey-hinton]], [[steven-bartlett]].
+- Cross-source synthesis: [[interviews-by-topic]].
 
 ## Raw source
 [[hinton-diary-of-a-ceo.transcript|raw/hinton-diary-of-a-ceo.transcript.md]] · captions `…en-orig.vtt` · metadata `…info.json`.

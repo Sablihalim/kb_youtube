@@ -35,4 +35,4 @@ Catalog of every wiki page. Grouped by type. Updated on every ingest. See [[over
 - [[openai]] — AI lab; creator of GPT/ChatGPT. *(company)*
 
 ## Analyses (filed query results)
-_None yet._
+- [[interviews-by-topic]] — Both interviews summarized side-by-side by topic (Huang vs Hinton).

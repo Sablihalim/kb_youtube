@@ -28,5 +28,8 @@ Next suggested: an economist (e.g. Daron Acemoglu) to adjudicate with data — t
 ## [2026-06-05] lint | First health-check (2 sources, 27 pages)
 Built the link graph. **Fixed:** 4 non-idiomatic `[[../../raw/…]]` path-style links in the two source pages → plain basename links (Obsidian resolves by note name; the old form was effectively broken and orphaned both raw transcripts). **Clean now:** no real broken links (only the illustrative `[[file-slug]]` examples in CLAUDE.md), no content orphans (only log.md, by design), no accidental contradictions (the Huang↔Hinton jobs tension is intentional and framed as a debate). **Suggested (not actioned):** create-on-demand pages for recurring entities (OpenAI, Ilya Sutskever, Xi Jinping, Trump, robotics/physical-AI, UBI); thicken [[ai-existential-risk]]; and the parked Acemoglu data-arbiter for [[ai-and-jobs]].
 
+## [2026-06-05] analysis | Topic summary of both interviews
+Created [[interviews-by-topic]] in analyses/ — a side-by-side, topic-organized summary of both interviews (Huang vs Hinton) with an at-a-glance table and links to the relevant concept pages. Wired into [[index]] and both source pages.
+
 ## [2026-06-05] note | Added entity pages: OpenAI, Ilya Sutskever
 Created reference [[openai]] and person [[ilya-sutskever]] (from the lint suggestions). Wired inbound links from [[chatgpt]], [[hinton-diary-of-a-ceo]], and [[ai-existential-risk]]; updated [[index]] and [[overview]]. Remaining create-on-demand: Xi Jinping, Trump, Google, robotics/physical-AI, UBI.
